@@ -1,0 +1,10 @@
+C:\Users\P502\Desktop\task\erp\erp\bin\Debug\erp.exe.config
+C:\Users\P502\Desktop\task\erp\erp\bin\Debug\erp.exe
+C:\Users\P502\Desktop\task\erp\erp\bin\Debug\erp.pdb
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.Form1.resources
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.Properties.Resources.resources
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.csproj.GenerateResource.Cache
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.exe
+C:\Users\P502\Desktop\task\erp\erp\obj\Debug\erp.pdb
